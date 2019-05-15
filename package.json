@@ -1,0 +1,25 @@
+{
+  "name": "web_d3",
+  "version": "1.0.0",
+  "description": "my web project",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuweg/kuweg.github.io.git"
+  },
+  "author": "kuweg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuweg/kuweg.github.io/issues"
+  },
+  "homepage": "https://github.com/kuweg/kuweg.github.io#readme",
+  "dependencies": {
+    "ace-builds": "^1.4.4"
+  }
+}
